@@ -7,6 +7,7 @@ namespace _52000896_Test
     public class UnitTest1
     {
         [TestMethod]
+        []
         public void Add_negetive_Should_return_Exception()
         {
             Student student = new Student();
